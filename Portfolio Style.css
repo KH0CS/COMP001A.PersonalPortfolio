@@ -2,10 +2,10 @@ body {
 font-family: sans-serif;
 padding: 1em;
 max-width: 600px;
+background-color: purple
 }
 h1 {
 font-size: 180%;
-background-color: rgb(68, 58, 82);
 color: #000000;
 }
 h2 {
@@ -15,4 +15,8 @@ border-bottom: 3px solid #0033cc;
 ul {
 list-style-type: square;
 }
-
+footer {
+font-size: medium;
+color: #7209af;
+background-color: rgb(0, 0, 0);
+}
