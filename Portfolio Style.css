@@ -2,6 +2,7 @@ body {
 font-family: sans-serif;
 padding: 1em;
 max-width: 600px;
+background-color: rgb(68, 58, 82);
 }
 h1 {
 font-size: 180%;
